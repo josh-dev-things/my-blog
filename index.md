@@ -1,5 +1,4 @@
 ---
 title: Josh Develops Things
-subtitle: a
 ---
-This is my blog!
+Computer Science student. Interested in Software Engineering, Computer Systems and Research.
