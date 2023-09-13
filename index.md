@@ -1,5 +1,5 @@
 ---
 title: Josh Develops Things
-sbutitle: a
+subtitle: a
 ---
 This is my blog!
