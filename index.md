@@ -1,4 +1,5 @@
 ---
-title: Welcome to my blog
+title: Josh Develops Things
+sbutitle: a
 ---
 This is my blog!
